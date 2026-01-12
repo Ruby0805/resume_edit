@@ -1,0 +1,39 @@
+Zihe Yan
+Santa Clara, CA | ziheyan0805@gmail.com | (341)-766-8699 | LinkedIn: https://www.linkedin.com/in/zihe-yan-a68a3b19a/
+SUMMARY
+Senior Data Scientist combining strong business acumen with practical Generative AI application experience. Proven track record in building complex predictive systems (e.g., Revenue Forecasting, Survival Analysis) and deploying agentic workflows for user engagement. Skilled in systematic prompt engineering, A/B testing for AI behaviors, and translating technical outputs into strategic business impact.
+EXPERIENCE
+Vibrant Wellness                                                                                                                                                                               California, USA                                                                                                                  
+Senior Data Scientist                                                                                                                                                                    Jan 2024 – Dec 2025
+•	Forecast Modeling: Architected an end-to-end Hierarchical Time Series forecasting system for monthly revenue prediction using XGBoost and MinT reconciliation, engineered 30+ exogenous features and utilized Recursive Feature Elimination (RFE) to select the top 12 high-impact drivers, outperforming the legacy Prophet baseline by 18 % in WMAPE.
+•	Business Attribution: Developed an automated "Forecast vs. Actual" attribution framework combining SHAP values and Price-Volume-Mix (PVM) analysis, enabling leadership to distinguish organic market demand from sales execution performance.
+•	Churn Prediction: Built a probabilistic churn prediction system using Survival Analysis (Cox Time-Varying). Engineered time-dependent covariates using start-stop data formatting to capture the dynamic impact of sales visits, achieving a 20% retention hit rate.
+•	A/B Test: Designed and executed experiments for the retention campaign, validated a 4x lift in customer save rates by comparing model-guided interventions against random sales outreach, proving the causal impact of preemptive visits on extending customer lifetime.
+•	Sales Effectiveness: Developed a Performance Measurement Framework for sales organization, defining Risk-Adjusted Revenue as the North Star metric and Effective Visit Score as the key driver, replacing ad-hoc KPIs, aligning field activities with high-level P&L targets.
+•	Leadership: Directed the end-to-end development lifecycle for forecasting and churn projects, guiding junior team members through code reviews and methodology selection; facilitated XFN alignment with stakeholders to prioritize features and ensure timely delivery.
+AmmoAI                                                                                                                                                                                              California, USA                                                                                              
+AI Product Data Scientist                                                                                                                                                            April 2025– Oct 2025                                                                                                                                                               
+•	Agent Persona Design: Designed and optimized persona-driven AI agents on Dify using Systematic Prompt Engineering (Chain-of-Thought, Few-Shot Learning), achieving a 95% alignment with intended personas across diverse community scenarios.
+•	A/B Test: Led A/B testing on bot engagement strategies (Passive Mention vs. Proactive Reply) to solve the "cold start" problem. Designed a relevance-based triggering logic that balanced exposure rate with user sentiment, increasing daily engagement by 40% while maintaining a <1% negative feedback rate (avoiding the "spammy" behavior of competitors).
+Vibrant Wellness                                                                                                                                                                               California, USA
+Business Analyst                                                                                                                                                                           July 2022 – Jan 2024
+•	Dashboarding & KPI Design: Defined and visualized key metrics for customer behavior and regional sales by engineering real-time Power BI dashboards across 50+ global regions and 100+ product lines. Replaced static weekly reporting with interactive drill-down capabilities, slashing data latency from 7 days to minutes, empowering leadership to pivot product strategies instantly.
+•	ETL Pipelines: Architected automated data pipelines using Python (Pandas) and SQL, processing 10M+ multi-source and multi-dimensional records. Successfully reduced data processing latency by 40%, ensuring timely availability of critical business data.
+•	CRM & Workflow Automation: Redefined HubSpot lead lifecycle management by developing automated workflows and proprietary lead scoring logic. Enhanced sales team efficiency by 23% by prioritizing high-intent prospects.
+PROJECTS
+Quantitative Trading and FinTech Project                                                                                                                          Jan 2022 – May 2022 
+•	High-Frequency Trading Data Pipeline (PySpark): Architected scalable ETL frameworks using PySpark for 200M+ transaction records; optimized RDD partitions and caching startegies to reduce latency, enabling automated feature engineering for trading models.
+•	Synthetic Data Generation via TimeGAN: Implemented TimeGAN to generate high-fidelity synthetic data for extreme markets. Improved out-of-sample robustness by 20% by augmenting training with synthetic "Black Swan" events.
+•	Quantitative Volatility Strategy & Backtesting: Developed a hybrid trading strategy combining GARCH for volatility estimation and LightGBM for directional prediction, backtested on 2+ years of tick-level data, achieved 1.68 Sharpe Ratio and 78% accuracy.
+SKILLS
+•	Data Tools: Python (Pandas, Numpy, scikit-learn); SQL; Databases(MySQL, Redshift, MongoDB); Data Visualization(Power BI, Tableau); Git, Big Data & Cloud(PySpark, Databricks, AWS); ETL(SSIS, SAP Data Services)
+•	Data Skills: Agentic AI, Machine Learning, A/B testing, Metrics Design, 
+EDUCATION
+University of California, Berkeley                                                                                                                                         Aug 2021 – May 2022
+Master of Engineering in Industrial Engineering and Operations Research, concentrate in Fintech
+Core courses: Applications in Data Analysis, Optimization Analytics, Risk Modeling and Simulation, Analysis and Design of Databases
+Hong Kong University of Science and Technology                                                                                                               Aug 2020 – May 2021
+Master of Finance
+Core courses: Corporate Finance, Accounting Foundations, Investment Analysis, Big Data in Finance, Business Modeling with VBA
+Wuhan University, School of Economics & Management                                                                                                     Sep 2016 – Jun 2020
+Bachelor of economics, major in Finance
